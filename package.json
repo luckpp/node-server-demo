@@ -1,0 +1,33 @@
+{
+  "name": "server-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckpp/node-server-demo.git"
+  },
+  "author": "luckpp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luckpp/node-server-demo/issues"
+  },
+  "homepage": "https://github.com/luckpp/node-server-demo#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.3",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "express-jwt": "^5.3.1",
+    "jsonwebtoken": "^8.4.0",
+    "lodash": "^4.17.11",
+    "log4js": "^3.0.6",
+    "mongoose": "^5.4.6",
+    "morgan": "^1.9.1",
+    "role-acl": "^3.2.0"
+  }
+}
