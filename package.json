@@ -25,7 +25,7 @@
     "express-jwt": "^5.3.1",
     "jsonwebtoken": "^8.4.0",
     "lodash": "^4.17.11",
-    "log4js": "^3.0.6",
+    "log4js": "^6.4.0",
     "mongoose": "^5.4.6",
     "morgan": "^1.9.1",
     "role-acl": "^3.2.0"
